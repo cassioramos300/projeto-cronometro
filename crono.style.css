@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body{
+    
+    background-color: gray;
+    
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    padding-top: 5em;
+}
+
+div {
+    text-align: center;
+    
+
+    
+    
+    
+}
+
+button{
+    height: 2em;
+    width: 5em;
+    color: white;
+    
+}
+
+.iniciar{
+    background-color: green;
+    border-style: black;
+}
+
+.pausar{
+    background-color: rgb(128, 128, 128);
+    border-style: black;
+}
+
+.parar{
+    background-color: red;
+    border-style: black;
+}
+
+button:hover{
+    cursor:pointer;
+}
